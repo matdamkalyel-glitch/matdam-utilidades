@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contato | Matdam Utilidades</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+<nav class="navbar">
+<h1 class="logo">Matdam Utilidades</h1>
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="produtos.html">Produtos</a></li>
+<li><a href="sobre.html">Sobre</a></li>
+<li><a href="contato.html" class="active">Contato</a></li>
+</ul>
+</nav>
+</header>
+
+<section class="page-title">
+<h2>Fale Conosco</h2>
+</section>
+
+<section class="contact">
+<p>📍 Goiânia - GO</p>
+<p>📞 WhatsApp: <a href="https://wa.me/5562993718097?text=Olá!%20Vi%20o%20site%20da%20Matdam%20Utilidades%20e%20quero%20saber%20mais%20sobre%20os%20produtos." target="_blank">+55 62 99371-8097</a></p>
+<p>✉️ Email: contato@matdamutilidades.com.br</p>
+<iframe src="https://www.google.com/maps?q=Goi%C3%A2nia%20GO&output=embed" loading="lazy"></iframe>
+</section>
+
+<footer>
+<p>© 2025 Matdam Utilidades — Todos os direitos reservados.</p>
+</footer>
+
+<a href="https://wa.me/5562993718097?text=Olá!%20Vi%20o%20site%20da%20Matdam%20Utilidades%20e%20quero%20saber%20mais%20sobre%20os%20produtos." class="whatsapp-button" target="_blank">💬</a>
+</body>
+</html>

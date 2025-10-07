@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sobre | Matdam Utilidades</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+<nav class="navbar">
+<h1 class="logo">Matdam Utilidades</h1>
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="produtos.html">Produtos</a></li>
+<li><a href="sobre.html" class="active">Sobre</a></li>
+<li><a href="contato.html">Contato</a></li>
+</ul>
+</nav>
+</header>
+
+<section class="page-title">
+<h2>Sobre a Matdam Utilidades</h2>
+</section>
+
+<section class="about">
+<img src="https://images.unsplash.com/photo-1588854337119-1b8f1bdb12f9?auto=format&fit=crop&w=1000&q=80" alt="Equipe Matdam">
+<div class="about-text">
+<p>
+A Matdam Utilidades é especializada em fornecer produtos de qualidade para cozinhas profissionais e residenciais.
+Atendemos restaurantes, hotéis, pizzarias e lares que valorizam praticidade, durabilidade e bom gosto.
+</p>
+<p>
+Nosso compromisso é oferecer soluções completas — dos grandes equipamentos aos pequenos utensílios — garantindo
+eficiência e beleza em cada detalhe da sua cozinha.
+</p>
+</div>
+</section>
+
+<footer>
+<p>© 2025 Matdam Utilidades — Todos os direitos reservados.</p>
+</footer>
+
+<a href="https://wa.me/5562993718097?text=Olá!%20Vi%20o%20site%20da%20Matdam%20Utilidades%20e%20quero%20saber%20mais%20sobre%20os%20produtos." class="whatsapp-button" target="_blank">💬</a>
+</body>
+</html>

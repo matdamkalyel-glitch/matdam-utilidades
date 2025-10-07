@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Produtos | Matdam Utilidades</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+<nav class="navbar">
+<h1 class="logo">Matdam Utilidades</h1>
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="produtos.html" class="active">Produtos</a></li>
+<li><a href="sobre.html">Sobre</a></li>
+<li><a href="contato.html">Contato</a></li>
+</ul>
+</nav>
+</header>
+
+<section class="page-title">
+<h2>Nossos Produtos</h2>
+</section>
+
+<section class="product-grid">
+<div class="product-card">
+<img src="https://images.unsplash.com/photo-1601050690597-4d8b53b4f4f8?auto=format&fit=crop&w=800&q=80" alt="Panelas Inox">
+<h3>Panelas Inox Premium</h3>
+<p>Durabilidade e elegância para sua cozinha.</p>
+</div>
+<div class="product-card">
+<img src="https://images.unsplash.com/photo-1590080875835-41b0f4b7d9c3?auto=format&fit=crop&w=800&q=80" alt="Faqueiro Profissional">
+<h3>Faqueiro Profissional</h3>
+<p>Precisão e conforto no corte.</p>
+</div>
+<div class="product-card">
+<img src="https://images.unsplash.com/photo-1622929610456-08a19f191b4b?auto=format&fit=crop&w=800&q=80" alt="Batedeira Industrial">
+<h3>Batedeira Industrial</h3>
+<p>Potência e eficiência para produção intensa.</p>
+</div>
+</section>
+
+<footer>
+<p>© 2025 Matdam Utilidades — Todos os direitos reservados.</p>
+</footer>
+
+<a href="https://wa.me/5562993718097?text=Olá!%20Vi%20o%20site%20da%20Matdam%20Utilidades%20e%20quero%20saber%20mais%20sobre%20os%20produtos." class="whatsapp-button" target="_blank">💬</a>
+</body>
+</html>

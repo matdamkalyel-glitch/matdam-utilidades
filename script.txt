@@ -1,0 +1,15 @@
+// Cria o botão do menu mobile
+document.addEventListener("DOMContentLoaded", () => {
+const navbar = document.querySelector(".navbar");
+const menuBtn = document.createElement("div");
+menuBtn.classList.add("menu-btn");
+menuBtn.innerHTML = "☰";
+navbar.insertBefore(menuBtn, navbar.querySelector("ul"));
+
+const navLinks = navbar.querySelector("ul");
+
+menuBtn.addEventListener("click", () => {
+navLinks.classList.toggle("active");
+menuBtn.classList.toggle("open");
+});
+});

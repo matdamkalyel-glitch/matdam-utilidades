@@ -1,0 +1,159 @@
+body {
+margin: 0;
+font-family: 'Poppins', sans-serif;
+background-color: #f7f8fa;
+color: #333;
+}
+
+/* Navbar */
+.navbar {
+display: flex;
+justify-content: space-between;
+align-items: center;
+background: #000;
+color: white;
+padding: 10px 50px;
+}
+
+.navbar ul {
+list-style: none;
+display: flex;
+gap: 20px;
+}
+
+.navbar a {
+text-decoration: none;
+color: white;
+font-weight: 500;
+}
+
+.navbar a:hover, .navbar .active {
+color: #00aaff;
+}
+
+/* Hero */
+.hero {
+background: url('https://images.unsplash.com/photo-1606787366850-de6330128bfc?auto=format&fit=crop&w=1600&q=80') center/cover;
+color: white;
+text-align: center;
+padding: 120px 20px;
+}
+
+.hero h2 {
+font-size: 2.5em;
+}
+
+.btn {
+background: #00aaff;
+color: white;
+padding: 10px 20px;
+border-radius: 5px;
+text-decoration: none;
+margin-top: 10px;
+display: inline-block;
+}
+
+/* Features */
+.features {
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+gap: 20px;
+padding: 50px 20px;
+background: white;
+}
+
+.feature {
+width: 300px;
+text-align: center;
+}
+
+.feature img {
+width: 100%;
+border-radius: 10px;
+}
+
+/* Produtos */
+.page-title {
+text-align: center;
+padding: 40px 0;
+background: #00aaff;
+color: white;
+}
+
+.product-grid {
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+gap: 25px;
+padding: 40px 20px;
+}
+
+.product-card {
+background: white;
+border-radius: 10px;
+box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+width: 280px;
+text-align: center;
+padding-bottom: 20px;
+}
+
+.product-card img {
+width: 100%;
+border-radius: 10px 10px 0 0;
+}
+
+/* Sobre */
+.about {
+display: flex;
+flex-wrap: wrap;
+align-items: center;
+justify-content: center;
+padding: 50px 20px;
+gap: 30px;
+}
+
+.about img {
+width: 400px;
+border-radius: 10px;
+}
+
+.about-text {
+max-width: 500px;
+}
+
+/* Contato */
+.contact {
+text-align: center;
+padding: 50px 20px;
+}
+
+.contact iframe {
+width: 100%;
+height: 300px;
+border: 0;
+margin-top: 20px;
+}
+
+/* Footer */
+footer {
+text-align: center;
+background: #000;
+color: white;
+padding: 15px;
+}
+
+/* WhatsApp Button */
+.whatsapp-button {
+position: fixed;
+bottom: 25px;
+right: 25px;
+background: #25D366;
+color: white;
+font-size: 28px;
+padding: 14px;
+border-radius: 50%;
+text-align: center;
+text-decoration: none;
+box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+}

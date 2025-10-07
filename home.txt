@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Matdam Utilidades | Tudo para sua cozinha</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+<nav class="navbar">
+<h1 class="logo">Matdam Utilidades</h1>
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="produtos.html">Produtos</a></li>
+<li><a href="sobre.html">Sobre</a></li>
+<li><a href="contato.html">Contato</a></li>
+</ul>
+</nav>
+</header>
+
+<section class="hero">
+<div class="hero-text">
+<h2>Tudo para sua cozinha em um só lugar</h2>
+<p>Equipamentos e utensílios de alta qualidade para restaurantes, hotéis e sua casa.</p>
+<a href="produtos.html" class="btn">Ver produtos</a>
+</div>
+</section>
+
+<section class="features">
+<div class="feature">
+<img src="https://images.unsplash.com/photo-1602524817482-2f4e04b76d8a?auto=format&fit=crop&w=800&q=80" alt="Utensílios de cozinha">
+<h3>Utensílios</h3>
+<p>Panelas, facas, tábuas e tudo o que sua cozinha precisa.</p>
+</div>
+<div class="feature">
+<img src="https://images.unsplash.com/photo-1606813902913-72e9b6a6d5cd?auto=format&fit=crop&w=800&q=80" alt="Equipamentos">
+<h3>Equipamentos</h3>
+<p>Forno, fritadeira, liquidificador industrial e muito mais.</p>
+</div>
+<div class="feature">
+<img src="https://images.unsplash.com/photo-1571212086900-46b6ba0b5b03?auto=format&fit=crop&w=800&q=80" alt="Organização">
+<h3>Organização</h3>
+<p>Produtos para deixar sua cozinha funcional e bonita.</p>
+</div>
+</section>
+
+<footer>
+<p>© 2025 Matdam Utilidades — Todos os direitos reservados.</p>
+</footer>
+
+<a href="https://wa.me/5562993718097?text=Olá!%20Vi%20o%20site%20da%20Matdam%20Utilidades%20e%20quero%20saber%20mais%20sobre%20os%20produtos." class="whatsapp-button" target="_blank">💬</a>
+</body>
+</html>
